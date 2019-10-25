@@ -18,7 +18,6 @@ React &amp; React Native Information
 - [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
 - [facebook/react-native-fbsdk](https://github.com/facebook/react-native-fbsdk)
 - [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps
-- []
 
 
 ```
