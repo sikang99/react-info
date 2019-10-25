@@ -6,7 +6,7 @@ React &amp; React Native Information
 
 
 ### Information
-- [React Native Camera](https://react-native-community.github.io/react-native-camera/)
+- [React Native Camera](https://react-native-community.github.io/react-native-camera/) - The comprehensive camera module for React Native
 
 
 ### Open Source
