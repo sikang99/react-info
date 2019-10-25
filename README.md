@@ -23,7 +23,7 @@ React &amp; React Native Information
 
 ### Versions
 - Xcode Version: 11.1
-- FBSDK 5.8.0
-- React native 0.59.10 - [0.61.2](https://github.com/facebook/react-native/releases)
-- react-native-fbsdk 1.0.4
-- react-native-webrtc  - [1.75.1](https://github.com/react-native-webrtc/react-native-webrtc/releases)
+- Facebook SDK - latest: [5.8.0](https://github.com/facebook/facebook-ios-sdk/releases)
+- React native 0.59.10 - latest: [0.61.2](https://github.com/facebook/react-native/releases)
+- react-native-fbsdk 1.0.4 - latest: [1.0.4](https://github.com/facebook/react-native-fbsdk/releases)
+- react-native-webrtc  - latest: [1.75.1](https://github.com/react-native-webrtc/react-native-webrtc/releases)
