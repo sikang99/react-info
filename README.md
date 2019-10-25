@@ -20,9 +20,9 @@ React &amp; React Native Information
 - [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps
 
 
-```
-Xcode Version: 11.1
-FBSDK 5.8.0
-React native 0.59.10
-react-native-fbsdk 1.0.4
-```
+### Versions
+- Xcode Version: 11.1
+- FBSDK 5.8.0
+- React native 0.59.10
+- react-native-fbsdk 1.0.4
+- react-native-webrtc  - [1.75.1](https://github.com/react-native-webrtc/react-native-webrtc/releases)
