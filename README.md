@@ -14,11 +14,15 @@ React &amp; React Native Information
 - [Use React Native](http://www.reactnative.com/)
 
 
-### Open Source
+### Open Source (major)
 - [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
 - [facebook/react-native-fbsdk](https://github.com/facebook/react-native-fbsdk)
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React
 - [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps
+
+### Open Source (minor)
+- [hamidhadi/react-native-haptic-view](https://github.com/hamidhadi/react-native-haptic-view) - A View component with Haptic effect support for React Native
+
 
 
 ### Versions (CoJam vs Latest) - 2019/10/25
