@@ -17,12 +17,13 @@ React &amp; React Native Information
 ### Open Source
 - [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
 - [facebook/react-native-fbsdk](https://github.com/facebook/react-native-fbsdk)
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React
 - [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps
 
 
 ### Versions
 - Xcode Version: 11.1
 - FBSDK 5.8.0
-- React native 0.59.10
+- React native 0.59.10 - [0.61.2](https://github.com/facebook/react-native/releases)
 - react-native-fbsdk 1.0.4
 - react-native-webrtc  - [1.75.1](https://github.com/react-native-webrtc/react-native-webrtc/releases)
