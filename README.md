@@ -21,7 +21,7 @@ React &amp; React Native Information
 - [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps
 
 
-### Versions (CoJam vs Latest)
+### Versions (CoJam vs Latest) - 2019/10/25
 - Xcode Version: 11.1
 - Facebook SDK - latest: [5.8.0](https://github.com/facebook/facebook-ios-sdk/releases)
 - React native 0.59.10 - latest: [0.61.2](https://github.com/facebook/react-native/releases)
