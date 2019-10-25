@@ -12,6 +12,7 @@ React &amp; React Native Information
 - [React Native](https://facebook.github.io/react-native/)
 - [React Native Camera](https://react-native-community.github.io/react-native-camera/) - The comprehensive camera module for React Native
 - [Use React Native](http://www.reactnative.com/)
+- [Facebook SDK for Android](https://developers.facebook.com/docs/android#-facebook-sdk-for-android-)
 
 
 ### Open Source (major)
@@ -19,6 +20,8 @@ React &amp; React Native Information
 - [facebook/react-native-fbsdk](https://github.com/facebook/react-native-fbsdk)
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React
 - [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps
+- [react-native-seoul/react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login) - react-native native module for Kakao sign in
+
 
 ### Open Source (minor)
 - [hamidhadi/react-native-haptic-view](https://github.com/hamidhadi/react-native-haptic-view) - A View component with Haptic effect support for React Native
