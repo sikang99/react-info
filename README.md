@@ -25,8 +25,8 @@ React &amp; React Native Information
 - [react-native-seoul/react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login) - react-native native module for Kakao sign in
 - [react-native-seoul/react-native-naver-login](https://github.com/react-native-seoul/react-native-naver-login)
 - [creamcookie/react-native-naver-login](https://github.com/creamcookie/react-native-naver-login)
-- [2359media/react-native-line-login](https://github.com/2359media/react-native-line-login) [x]
-- [xmartlabs/react-native-line](https://github.com/xmartlabs/react-native-line) [x]
+- [2359media/react-native-line-login](https://github.com/2359media/react-native-line-login) - RN 0.33.0 [x]
+- [xmartlabs/react-native-line](https://github.com/xmartlabs/react-native-line) - RN 0.48.+ [x]
 
 ### Open Source (minor)
 - [hamidhadi/react-native-haptic-view](https://github.com/hamidhadi/react-native-haptic-view) - A View component with Haptic effect support for React Native
