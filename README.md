@@ -11,6 +11,5 @@ React & its Family Information
 - [React Native](https://facebook.github.io/react-native/) - 0.61
 
 
-
 ### Open Source
 
