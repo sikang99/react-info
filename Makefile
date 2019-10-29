@@ -2,7 +2,7 @@
 # Makefile for react-info
 #
 .PHONY: usage edit build clean git
-VERSION=00.00.01
+VERSION=00.00.02
 #----------------------------------------------------------------------------------
 usage:
 	@echo "make [edit|build]"
