@@ -5,6 +5,7 @@ React &amp; React Native Information
 ### History
 - 2019/10/09 [React Native Tutorial: Facebook Login Example](https://www.djamware.com/post/5d9d4aeec1fff332c94be1ea/react-native-tutorial-facebook-login-example)
 - 2019/10/07 [10 Awesome React Native UI Component Libraries You Should Know](https://medium.com/enappd/10-awesome-react-native-ui-component-libraries-you-should-know-bd7b6bb7e38d)
+- 2019/07/23 [Expo Web(React Native for web) 튜토리얼](https://meetup.toast.com/posts/191)
 - 2019/04/10 [Email Authentication with React native and Firebase](https://hackernoon.com/email-authentication-with-react-native-and-firebase-99b5e9a579e0)
 - 2019/03/29 [13 Great Examples of React Native Apps](https://www.netguru.com/blog/13-great-apps-written-with-react-native)
 - 2019/02/05 [Going Mobile with React Native and WebRTC](https://www.slideshare.net/saghul/going-mobile-with-react-native-and-webrtc) - Jitsi
