@@ -12,13 +12,5 @@ React & its Family Information
 
 
 
-### Open Source (major)
-
-
-### Open Source (minor)
-
-
-
-### Versions (CoJam vs Latest) - 2019/10/25
-
+### Open Source
 
