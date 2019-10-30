@@ -5,6 +5,8 @@ React Native Information
 ### History
 - 2019/10/09 [React Native Tutorial: Facebook Login Example](https://www.djamware.com/post/5d9d4aeec1fff332c94be1ea/react-native-tutorial-facebook-login-example)
 - 2019/10/07 [10 Awesome React Native UI Component Libraries You Should Know](https://medium.com/enappd/10-awesome-react-native-ui-component-libraries-you-should-know-bd7b6bb7e38d)
+- 2019/09/18 [Announcing React Native 0.61 with Fast Refresh](https://facebook.github.io/react-native/blog/2019/09/18/version-0.61)
+- 2019/07/03 [Announcing React Native 0.60](https://facebook.github.io/react-native/blog/2019/07/03/version-60)
 - 2019/07/23 [Expo Web(React Native for web) 튜토리얼](https://meetup.toast.com/posts/191)
 - 2019/04/10 [Email Authentication with React native and Firebase](https://hackernoon.com/email-authentication-with-react-native-and-firebase-99b5e9a579e0)
 - 2019/03/29 [13 Great Examples of React Native Apps](https://www.netguru.com/blog/13-great-apps-written-with-react-native)
@@ -13,7 +15,7 @@ React Native Information
 
 
 ### Information
-- [React Native](https://facebook.github.io/react-native/)
+- [React Native](https://facebook.github.io/react-native/) - [Release](https://nicedoc.io/react-native-community/react-native-releases/blob/master/CHANGELOG.md)
 - [React Native Camera](https://react-native-community.github.io/react-native-camera/) - The comprehensive camera module for React Native
 - [Use React Native](http://www.reactnative.com/)
 - [Facebook SDK for Android](https://developers.facebook.com/docs/android#-facebook-sdk-for-android-)

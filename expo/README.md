@@ -5,6 +5,7 @@
 
 ### History
 - 2019/10/06 [Tutorial: How to share code between iOS, Android & Web using React Native, react-native-web and monorepo](https://dev.to/brunolemos/tutorial-100-code-sharing-between-ios-android--web-using-react-native-web-andmonorepo-4pej)
+- 2019/09/21 [*Expo SDK 35* is now available](https://blog.expo.io/expo-sdk-35-is-now-available-beee0dfafbf4)
 - 2019/08/10 [Does Expo Support React Native Web?](https://hackernoon.com/does-expo-support-react-native-web-r21bc309m)
 - 2019/08/02 [From Zero to Publish: Expo Web (React Native for Web) Tutorial](https://medium.com/@toastui/from-zero-to-publish-expo-web-react-native-for-web-tutorial-e3e020d6d3ff)
 - 2019/07/23 [Expo Web(React Native for web) 튜토리얼](https://meetup.toast.com/posts/191)
@@ -18,5 +19,5 @@
 
 
 ### Versions
-- Expo SDK v33
+- Expo SDK v35
 
