@@ -19,5 +19,5 @@
 
 
 ### Versions
-- Expo SDK v35
+- Expo SDK v33 - 35 - RN 0.59
 

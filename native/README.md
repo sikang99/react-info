@@ -8,6 +8,7 @@ React Native Information
 - 2019/09/18 [Announcing React Native 0.61 with Fast Refresh](https://facebook.github.io/react-native/blog/2019/09/18/version-0.61)
 - 2019/07/03 [Announcing React Native 0.60](https://facebook.github.io/react-native/blog/2019/07/03/version-60)
 - 2019/07/23 [Expo Web(React Native for web) 튜토리얼](https://meetup.toast.com/posts/191)
+- 2019/06/04 [React Native Facebook Login Integration Example Tutorial Explained](https://reactnativecode.com/facebook-login-integration/)
 - 2019/04/10 [Email Authentication with React native and Firebase](https://hackernoon.com/email-authentication-with-react-native-and-firebase-99b5e9a579e0)
 - 2019/03/29 [13 Great Examples of React Native Apps](https://www.netguru.com/blog/13-great-apps-written-with-react-native)
 - 2019/02/05 [Going Mobile with React Native and WebRTC](https://www.slideshare.net/saghul/going-mobile-with-react-native-and-webrtc) - Jitsi
