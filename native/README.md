@@ -24,7 +24,7 @@ React Native Information
 
 
 ### Open Source (major)
-- [*react-native-community/react-native-image-picker*](https://github.com/react-native-community/react-native-image-picker)
+- [*react-native-community/react-native-image-picker*](https://github.com/react-native-community/react-native-image-picker) - Problem in iOS 13
     - [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)
 - [react-native-community/react-native-device-info](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
