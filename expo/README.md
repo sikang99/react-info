@@ -16,6 +16,7 @@
 ### Open Source
 - [expo/web-examples](https://github.com/expo/web-examples)
 - [brunolemos/react-native-web-monorepo](https://github.com/brunolemos/react-native-web-monorepo)
+- [unimodules/react-native-unimodules](https://github.com/unimodules/react-native-unimodules) - Core Unimodule infrastructure and a collection of Unimodules and interfaces that are commonly depended on by other Unimodules
 
 
 ### Versions
