@@ -29,6 +29,8 @@ React Native Information
     - [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)
 - [react-native-community/react-native-device-info](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-community/react-native-webview](https://github.com/react-native-community/react-native-webview) - React Native Cross-Platform WebView 
+- [react-native-community/react-native-camera](https://github.com/react-native-community/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
+- [react-native-community/react-native-cameraroll](https://github.com/react-native-community/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library.
 - [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
 - [facebook/react-native-fbsdk](https://github.com/facebook/react-native-fbsdk)
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React
@@ -40,11 +42,11 @@ React Native Information
 - [xmartlabs/react-native-line](https://github.com/xmartlabs/react-native-line) - RN 0.48.+ [x]
 - [yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat) - WeChat login, share, favorite and payment for React-Native on iOS and Android platforms
 - [iamport/iamport-react-native](https://github.com/iamport/iamport-react-native) - React Native용 아임포트 결제 연동 웹뷰 컴포넌트
-- [react-native-static-server]()
 
 
 ### Open Source (minor)
 - [hamidhadi/react-native-haptic-view](https://github.com/hamidhadi/react-native-haptic-view) - A View component with Haptic effect support for React Native
+- [futurepress/react-native-static-server](https://github.com/futurepress/react-native-static-server) - HTTP static file server for React Native
 
 
 ### Versions (CoJam vs Latest) - 2019/10/25
