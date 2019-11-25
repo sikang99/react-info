@@ -3,17 +3,28 @@ React Native Information
 
 
 ### History
+- 2019/10/14 [Fun, Fast, and Free Login with React Native](https://scotch.io/tutorials/fun-fast-and-free-login-with-react-native)
 - 2019/10/09 [React Native Tutorial: Facebook Login Example](https://www.djamware.com/post/5d9d4aeec1fff332c94be1ea/react-native-tutorial-facebook-login-example)
 - 2019/10/07 [10 Awesome React Native UI Component Libraries You Should Know](https://medium.com/enappd/10-awesome-react-native-ui-component-libraries-you-should-know-bd7b6bb7e38d)
+- 2019/09/30 [Google Login in React Native](https://mobikul.com/google-login-in-react-native/)
 - 2019/09/18 [Announcing React Native 0.61 with Fast Refresh](https://facebook.github.io/react-native/blog/2019/09/18/version-0.61)
+- 2019/08/30 [Integrate Google Login in React Native apps with Firebase (Android)](https://medium.com/enappd/google-login-in-react-native-android-apps-with-firebase-55ffee3ded90)
 - 2019/08/28 [Running a Static HTTP Server in React Native](https://spin.atomicobject.com/2019/08/28/static-http-server-react-native/)
-- 2019/07/03 [Announcing React Native 0.60](https://facebook.github.io/react-native/blog/2019/07/03/version-60)
 - 2019/07/23 [Expo Web(React Native for web) 튜토리얼](https://meetup.toast.com/posts/191)
+- 2019/07/16 [Building a Reusable React Login Component](https://blog.bitsrc.io/building-a-reusable-react-login-component-cc824164ff36)
+- 2019/07/03 [Announcing React Native 0.60](https://facebook.github.io/react-native/blog/2019/07/03/version-60)
 - 2019/06/04 [React Native Facebook Login Integration Example Tutorial Explained](https://reactnativecode.com/facebook-login-integration/)
+- 2019/05/01 [**How to set up React Native authentication with react-native-app-auth**](https://www.freecodecamp.org/news/how-to-set-up-react-native-authentication-with-react-native-app-auth-f6fd66e0e6d0/)
 - 2019/04/10 [Email Authentication with React native and Firebase](https://hackernoon.com/email-authentication-with-react-native-and-firebase-99b5e9a579e0)
 - 2019/03/29 [13 Great Examples of React Native Apps](https://www.netguru.com/blog/13-great-apps-written-with-react-native)
 - 2019/02/05 [Going Mobile with React Native and WebRTC](https://www.slideshare.net/saghul/going-mobile-with-react-native-and-webrtc) - Jitsi
 - 2016/02/16 [Beginner’s Guide to Using CocoaPods with React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995)
+
+
+### History (Korean)
+- 2019/10/17 [React-Native: 리액트 네이티브(react-native) 구글 로그인 연동하기](https://bangc.tistory.com/12)
+- 2019/08/18 [React Native: 리액트 네이티브에 카카오 로그인 구현하기 #3 : React Native Firebase SDK 사용하기](https://busy.org/@anpigon/react-native-3-react-native-firebase-sdk)
+- 2019/08/06 [react-native 구글 로그인 연동](https://gsgdvxhx.tistory.com/31)
 
 
 ### Information
@@ -31,7 +42,9 @@ React Native Information
 - [react-native-community/react-native-webview](https://github.com/react-native-community/react-native-webview) - React Native Cross-Platform WebView 
 - [react-native-community/react-native-camera](https://github.com/react-native-community/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 - [react-native-community/react-native-cameraroll](https://github.com/react-native-community/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library.
-- [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
+- [react-native-community/react-native-google-signin](https://github.com/react-native-community/react-native-google-signin) - Google Signin for your React Native applications
+- 
+- [**react-native-webrtc/react-native-webrtc**](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
 - [facebook/react-native-fbsdk](https://github.com/facebook/react-native-fbsdk)
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React
 - [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps
@@ -42,11 +55,16 @@ React Native Information
 - [xmartlabs/react-native-line](https://github.com/xmartlabs/react-native-line) - RN 0.48.+ [x]
 - [yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat) - WeChat login, share, favorite and payment for React-Native on iOS and Android platforms
 - [iamport/iamport-react-native](https://github.com/iamport/iamport-react-native) - React Native용 아임포트 결제 연동 웹뷰 컴포넌트
+- [enappd/react-native-google-login](https://github.com/enappd/react-native-google-login) - Example repository for React Native Google Login using Firebase
+- [FormidableLabs/react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React native bridge for AppAuth - an SDK for communicating with OAuth2 providers
 
 
 ### Open Source (minor)
 - [hamidhadi/react-native-haptic-view](https://github.com/hamidhadi/react-native-haptic-view) - A View component with Haptic effect support for React Native
 - [futurepress/react-native-static-server](https://github.com/futurepress/react-native-static-server) - HTTP static file server for React Native
+- [oney/react-native-webrtc](https://github.com/oney/react-native-webrtc) -> moved react-native-webrtc/react-native-webrtc
+- [oney/RCTWebRTCDemo](https://github.com/oney/RCTWebRTCDemo)
+
 
 
 ### Versions (CoJam vs Latest) - 2019/10/25
