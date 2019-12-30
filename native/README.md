@@ -19,6 +19,7 @@ React Native Information
 - 2019/04/10 [Email Authentication with React native and Firebase](https://hackernoon.com/email-authentication-with-react-native-and-firebase-99b5e9a579e0)
 - 2019/03/29 [13 Great Examples of React Native Apps](https://www.netguru.com/blog/13-great-apps-written-with-react-native)
 - 2019/02/05 [Going Mobile with React Native and WebRTC](https://www.slideshare.net/saghul/going-mobile-with-react-native-and-webrtc) - Jitsi
+- 2019/00/00
 - 2017/05/08 [Detecting Device Orientation Change With React Native](http://www.dotnetsurfers.com/blog/2017/05/08/detecting-device-orientation-change-with-react-native)
 - 2016/02/16 [Beginner’s Guide to Using CocoaPods with React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995)
 
