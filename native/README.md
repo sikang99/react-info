@@ -57,6 +57,7 @@ React Native Information
 - [iamport/iamport-react-native](https://github.com/iamport/iamport-react-native) - React Native용 아임포트 결제 연동 웹뷰 컴포넌트
 - [enappd/react-native-google-login](https://github.com/enappd/react-native-google-login) - Example repository for React Native Google Login using Firebase
 - [FormidableLabs/react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React native bridge for AppAuth - an SDK for communicating with OAuth2 providers
+- [phuochau/react-native-beautiful-video-recorder](https://github.com/phuochau/react-native-beautiful-video-recorder) - The video recorder component that extends from react-native-camera. It works for both iOS & Android
 
 
 ### Open Source (minor)
