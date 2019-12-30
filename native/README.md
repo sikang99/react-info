@@ -3,6 +3,7 @@ React Native Information
 
 
 ### History
+- 2019/11/05 [React Native Dark Mode and Theming](https://medium.com/javascript-in-plain-english/react-native-dark-mode-and-theming-dc299bec206d)
 - 2019/10/14 [Fun, Fast, and Free Login with React Native](https://scotch.io/tutorials/fun-fast-and-free-login-with-react-native)
 - 2019/10/09 [React Native Tutorial: Facebook Login Example](https://www.djamware.com/post/5d9d4aeec1fff332c94be1ea/react-native-tutorial-facebook-login-example)
 - 2019/10/07 [10 Awesome React Native UI Component Libraries You Should Know](https://medium.com/enappd/10-awesome-react-native-ui-component-libraries-you-should-know-bd7b6bb7e38d)
@@ -34,6 +35,7 @@ React Native Information
 - [Facebook SDK for Android](https://developers.facebook.com/docs/android#-facebook-sdk-for-android-)
 - [리액트네이티브서울](https://reactnativeseoul.org/)
 - [**React Native Camera**](https://react-native-community.github.io/react-native-camera/)
+- [Awesome React Native](http://www.awesome-react-native.com/)
 
 
 ### Open Source (major)
