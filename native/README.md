@@ -33,6 +33,7 @@ React Native Information
 - [Use React Native](http://www.reactnative.com/)
 - [Facebook SDK for Android](https://developers.facebook.com/docs/android#-facebook-sdk-for-android-)
 - [리액트네이티브서울](https://reactnativeseoul.org/)
+- [**React Native Camera**](https://react-native-community.github.io/react-native-camera/)
 
 
 ### Open Source (major)
@@ -40,7 +41,7 @@ React Native Information
     - [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)
 - [react-native-community/react-native-device-info](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-community/react-native-webview](https://github.com/react-native-community/react-native-webview) - React Native Cross-Platform WebView 
-- [react-native-community/react-native-camera](https://github.com/react-native-community/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
+- [**react-native-community/react-native-camera**](https://github.com/react-native-community/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 - [react-native-community/react-native-cameraroll](https://github.com/react-native-community/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library.
 - [react-native-community/react-native-google-signin](https://github.com/react-native-community/react-native-google-signin) - Google Signin for your React Native applications
 - 
@@ -57,7 +58,7 @@ React Native Information
 - [iamport/iamport-react-native](https://github.com/iamport/iamport-react-native) - React Native용 아임포트 결제 연동 웹뷰 컴포넌트
 - [enappd/react-native-google-login](https://github.com/enappd/react-native-google-login) - Example repository for React Native Google Login using Firebase
 - [FormidableLabs/react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React native bridge for AppAuth - an SDK for communicating with OAuth2 providers
-- [phuochau/react-native-beautiful-video-recorder](https://github.com/phuochau/react-native-beautiful-video-recorder) - The video recorder component that extends from react-native-camera. It works for both iOS & Android
+
 
 
 ### Open Source (minor)
@@ -65,7 +66,10 @@ React Native Information
 - [futurepress/react-native-static-server](https://github.com/futurepress/react-native-static-server) - HTTP static file server for React Native
 - [oney/react-native-webrtc](https://github.com/oney/react-native-webrtc) -> moved react-native-webrtc/react-native-webrtc
 - [oney/RCTWebRTCDemo](https://github.com/oney/RCTWebRTCDemo)
+- [phuochau/react-native-beautiful-video-recorder](https://github.com/phuochau/react-native-beautiful-video-recorder) - The video recorder component that extends from react-native-camera. It works for both iOS & Android
 
+### Persons
+- [Hau Vo](https://github.com/phuochau/), Vietnam
 
 
 ### Versions (CoJam vs Latest) - 2019/10/25
