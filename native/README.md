@@ -3,6 +3,7 @@ React Native Information
 
 
 ### History
+- 2020/00/00
 - 2019/11/05 [React Native Dark Mode and Theming](https://medium.com/javascript-in-plain-english/react-native-dark-mode-and-theming-dc299bec206d)
 - 2019/10/14 [Fun, Fast, and Free Login with React Native](https://scotch.io/tutorials/fun-fast-and-free-login-with-react-native)
 - 2019/10/09 [React Native Tutorial: Facebook Login Example](https://www.djamware.com/post/5d9d4aeec1fff332c94be1ea/react-native-tutorial-facebook-login-example)
@@ -19,6 +20,7 @@ React Native Information
 - 2019/04/10 [Email Authentication with React native and Firebase](https://hackernoon.com/email-authentication-with-react-native-and-firebase-99b5e9a579e0)
 - 2019/03/29 [13 Great Examples of React Native Apps](https://www.netguru.com/blog/13-great-apps-written-with-react-native)
 - 2019/02/05 [Going Mobile with React Native and WebRTC](https://www.slideshare.net/saghul/going-mobile-with-react-native-and-webrtc) - Jitsi
+- 2019/01/09 [Building LightOS with React Native](https://medium.com/sanctuary-computer-inc/building-lightos-with-react-native-4b6e4ad1cd7f)
 - 2019/00/00
 - 2017/05/08 [Detecting Device Orientation Change With React Native](http://www.dotnetsurfers.com/blog/2017/05/08/detecting-device-orientation-change-with-react-native)
 - 2016/02/16 [Beginner’s Guide to Using CocoaPods with React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995)
@@ -71,9 +73,12 @@ React Native Information
 - [oney/react-native-webrtc](https://github.com/oney/react-native-webrtc) -> moved react-native-webrtc/react-native-webrtc
 - [oney/RCTWebRTCDemo](https://github.com/oney/RCTWebRTCDemo)
 - [phuochau/react-native-beautiful-video-recorder](https://github.com/phuochau/react-native-beautiful-video-recorder) - The video recorder component that extends from react-native-camera. It works for both iOS & Android
+- [yamill/react-native-orientation](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
+
 
 ### Persons
 - [Hau Vo](https://github.com/phuochau/), Vietnam
+- [Yamill Vallecillo](https://github.com/yamill), USA
 
 
 ### Versions (CoJam vs Latest) - 2019/10/25
